@@ -1,0 +1,1 @@
+{"version":3,"sources":["config.js"],"names":["module","exports","API_SECRET","TOKEN_EXPIRATION_TIME"],"mappings":";;AAAAA,OAAOC,OAAP,GAAiB;AACbC,gBAAY,kCADC;AAEbC,2BAAuB;AAFV,CAAjB","file":"config.js","sourcesContent":["module.exports = {\r\n    API_SECRET: 'c79Fjm4G10WIHDXp8wTufvVk0G9KfTqc',\r\n    TOKEN_EXPIRATION_TIME: '10 days'\r\n};"]}

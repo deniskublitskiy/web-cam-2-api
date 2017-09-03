@@ -1,0 +1,40 @@
+{
+  "name": "web-cam-api",
+  "version": "0.0.1",
+  "dependencies": {
+    "babel-runtime": "^6.23.0",
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.1",
+    "bookshelf": "^0.10.3",
+    "bookshelf-camelcase": "^1.1.4",
+    "cors": "^2.8.3",
+    "express": "^4.15.2",
+    "express-cors": "0.0.3",
+    "jsonwebtoken": "^7.3.0",
+    "knex": "^0.12.9",
+    "lodash": "^4.17.4",
+    "log4js": "^1.1.1",
+    "morgan": "^1.8.1",
+    "mysql2": "^1.2.0",
+    "node-xlsx": "^0.7.4",
+    "nodemailer": "^4.0.1",
+    "path": "^0.12.7",
+    "socket.io": "^1.7.3",
+    "urldecode": "^1.0.1",
+    "xlsx": "^0.10.5"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-core": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-es2017": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "faker": "^4.1.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "mocha": "^3.2.0"
+  }
+}

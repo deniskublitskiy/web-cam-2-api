@@ -1,0 +1,1 @@
+{"version":3,"sources":["utils/delay-promise/index.js"],"names":["wait","Promise","setTimeout","resolve"],"mappings":";;;;;;kBAAe;AAAA,MAACA,IAAD,uEAAQ,CAAR;AAAA,SAAc,IAAIC,OAAJ,CAAY;AAAA,WAAWC,WAAWC,OAAX,EAAoBH,IAApB,CAAX;AAAA,GAAZ,CAAd;AAAA,C","file":"index.js","sourcesContent":["export default (wait = 0) => new Promise(resolve => setTimeout(resolve, wait))\r\n"]}
